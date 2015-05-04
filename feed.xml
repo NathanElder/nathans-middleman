@@ -11,8 +11,8 @@
   </author>
   <entry>
     <title>Awesome Article</title>
-    <link rel="alternate" href="http://blog.url.com/2015/05/04/awesome-article/"/>
-    <id>http://blog.url.com/2015/05/04/awesome-article/</id>
+    <link rel="alternate" href="http://blog.url.com/2015/05/04/awesome-article.html"/>
+    <id>http://blog.url.com/2015/05/04/awesome-article.html</id>
     <published>2015-05-04T13:22:00-04:00</published>
     <updated>2015-05-04T13:22:45-04:00</updated>
     <author>
@@ -23,8 +23,8 @@
   </entry>
   <entry>
     <title>Hey There Dude</title>
-    <link rel="alternate" href="http://blog.url.com/2015/05/04/hey-there-dude/"/>
-    <id>http://blog.url.com/2015/05/04/hey-there-dude/</id>
+    <link rel="alternate" href="http://blog.url.com/2015/05/04/hey-there-dude.html"/>
+    <id>http://blog.url.com/2015/05/04/hey-there-dude.html</id>
     <published>2015-05-04T13:13:00-04:00</published>
     <updated>2015-05-04T13:13:17-04:00</updated>
     <author>
@@ -35,8 +35,8 @@
   </entry>
   <entry>
     <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article/"/>
-    <id>http://blog.url.com/2012/01/01/example-article/</id>
+    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
+    <id>http://blog.url.com/2012/01/01/example-article.html</id>
     <published>2011-12-31T19:00:00-05:00</published>
     <updated>2015-05-04T13:04:44-04:00</updated>
     <author>
